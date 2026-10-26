@@ -409,6 +409,7 @@ Style: creator-led YouTube in-stream ad opening with problem, product, demo and 
 
 ### 1. Learn AI video ads and social video
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 - [AI Video Ads](https://www.cliprise.app/learn/workflows/marketing/ai-video-ads-complete-guide)
 - [AI Video for TikTok](https://www.cliprise.app/learn/workflows/marketing/ai-video-for-tiktok-complete-guide)
 - [AI Video Ads for Facebook and Instagram](https://www.cliprise.app/learn/workflows/marketing/ai-video-ads-facebook-instagram-complete-performance-guide)
